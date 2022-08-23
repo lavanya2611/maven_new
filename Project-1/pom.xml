@@ -4,7 +4,7 @@
 	<groupId>jenkins-test.pack</groupId>
 	<artifactId>parent_project</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-    <description>parent module using the maven project</description>
+    	<description>parent module using the maven project</description>
 	<packaging>pom</packaging>
 
 </project>
