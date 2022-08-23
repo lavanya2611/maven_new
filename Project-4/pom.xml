@@ -9,18 +9,17 @@
     	<groupId>jenkins-test.pack</groupId>
 		<artifactId>parent_project</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
-		<relativePath>"https://mt-prj-svn.psi.de/svn/FMD/trunk/FMD/incubator/jenkins-release-pipeline/Project-1/pom.xml"</relativePath>
-    </parent>
+    	</parent>
 	
     <packaging>jar</packaging>
 	
 
     <dependencies>
 		   <dependency>
-					<groupId>jenkins_test3.de</groupId>
+				    <groupId>jenkins_test3.de</groupId>
 				    <artifactId>Child3_project.test</artifactId>
-					<version>2.0.0-SNAPSHOT</version>
-					<scope>provided</scope>
+				     <version>2.0.0-SNAPSHOT</version>
+				     <scope>provided</scope>
 		  </dependency>
     </dependencies>
 	
