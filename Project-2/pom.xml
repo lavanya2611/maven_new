@@ -8,11 +8,9 @@
     <groupId>jenkins-test.pack</groupId>
 	<artifactId>parent_project</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-
-   
    </parent>
 	
- <packaging>jar</packaging>
+  <packaging>jar</packaging>
  
 </project>
 
